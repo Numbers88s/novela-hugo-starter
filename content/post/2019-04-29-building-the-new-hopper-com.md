@@ -181,4 +181,4 @@ Without the Gatsby lifecycle, it would be impossible to customize and modify you
 
 Gatsby is a staple within our engineering process at Narative, helping us help our clients build the products they’ve always dreamed of, and the ones they’re yet to dream up.
 
-{{< subscribe email="something@good.com" >}}
+<!-- {{< subscribe email="something@good.com" >}} -->
