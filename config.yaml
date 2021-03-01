@@ -1,6 +1,6 @@
 baseURL: "https://cesar-jimenez.com"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Cesar Jimenez"
 pygmentsstyle: 'monokai'
 
 # Theme settings
@@ -10,11 +10,11 @@ theme: novela
 #     - path: "github.com/forestryio/hugo-theme-novela"
 paginate: 6
 social:
-  twitter: "#"
-  github: "#"
-  instagram: "#"
-  linkedin: "#"
-  dribbble: "#"
-  youtube: "#"
+  twitter: "https://twitter.com/cesar_r_jimenez"
+  github: "https://github.com/Numbers88s"
+  # instagram: "#"
+  linkedin: "https://linkedin.com/in/cesarrjimenez"
+  # dribbble: "#"
+  # youtube: "#"
 taxonomies:
   author: authors

@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Novela</title>
+    <title>Cesar Jimenez</title>
     <link>https://cesar-jimenez.com/</link>
-    <description>Recent content on Hugo Novela</description>
+    <description>Recent content on Cesar Jimenez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cesar-jimenez.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Feb 2021 21:25:41 -0800</lastBuildDate><atom:link href="https://cesar-jimenez.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started in Tech</title>
+      <link>https://cesar-jimenez.com/post/2020-02-27-getting-started-in-tech/</link>
+      <pubDate>Sat, 27 Feb 2021 21:25:41 -0800</pubDate>
+      
+      <guid>https://cesar-jimenez.com/post/2020-02-27-getting-started-in-tech/</guid>
+      <description>Everyone wants to change the world, but in order to do so, you have to put on pants. I found a loophole.
+That loophole is web development.
+Web Development is one of those careers that helps improve lives through innovation and technology. And as if that wasn&amp;rsquo;t amazing enough, it is also one of those careers that you can do from the comfort of your home.
+I am excited to share with you the things I learned about how to land your first job in the tech industry.</description>
+    </item>
+    
     <item>
       <title>A story of why Forestry loves Hugo</title>
       <link>https://cesar-jimenez.com/post/2020-04-27-building-hoppers-media-centre/</link>
