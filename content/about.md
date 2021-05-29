@@ -2,10 +2,10 @@
 title: About
 ---
 
-Etiam porta sem malesuada magna mollis euismod. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui.
+I’m the founder of [Momentum](https://momentumtradingjournal.com), maker of software, and digital privacy enthusiast.
 
-Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+Currently helping code awesome things at an amazing startup named [Openly](https://openly.com).
 
-Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+Some of my recent projects have been with [Nike](https://nike.com), [Cultivator](https://wearecultivator.com), [Daimler](https://daimler.com), [Unfi](https://www.unfi.com/), and [The Philadelphia Orchestra](https://www.philorch.org/).
 
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Vestibulum id ligula porta felis euismod semper. Etiam porta sem malesuada magna mollis euismod. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+I am a detail-oriented and focused individual with a sincere work ethic and bring these qualities to any team. If you'd like to work together, find me on [Linkedin](www.linkedin.com/in/cesarrjimenez) or [Twitter](https://twitter.com/cesar_r_jimenez).

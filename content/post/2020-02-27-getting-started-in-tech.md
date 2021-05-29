@@ -1,9 +1,9 @@
 ---
 title: "Getting Started in Tech"
-date: 2021-02-27T21:25:41-08:00
-hero: /images/solo-dev.jpg
+date: 2021-02-27
+hero: /images/laptop-view.jpg
 excerpt: Everyone wants to change the world, but in order to do so, you have to put on pants. I found a loophole.
-timeToRead: 5
+timeToRead: 7
 authors:
   - Cesar Jimenez
 ---
