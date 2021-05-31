@@ -1,7 +1,7 @@
 ---
 title: "Algorithm toolbox: Insertion Sort"
 date: 2021-05-30
-hero: /images/enter-too.jpg
+hero: /images/enter.jpg
 excerpt: "Some implementations of more advanced algorithms will even switch from using their more advanced methodology to insertion sort when the list gets small enough."
 timeToRead: 5
 authors:
