@@ -6,7 +6,40 @@
     <description>Recent content on Cesar Jimenez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cesar-jimenez.com/authors/cesar-jimenez/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cesar-jimenez.com/authors/cesar-jimenez/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithm toolbox: Bubble Sort</title>
+      <link>https://cesar-jimenez.com/post/2021-05-30-bubble-sort/</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cesar-jimenez.com/post/2021-05-30-bubble-sort/</guid>
+      <description>Bubble Sort In this article we&amp;rsquo;ll focus on undertanding bubble sort.
+Bubble sort is a simple comparison algorithm with a quadratic runtime of O(n²) time. This algorithm is simple and easy to implement, however it is important to note that it is the most inefficient sorting algorithm in our arsenal.
+Bubble sort compares every pair of adjacent values and swap positions if the first value is greater than the second. During each pass through the array, the largest value “bubbles up” to the top, and after each pass the elements furthest to the right are in the correct order.</description>
+    </item>
+    
+    <item>
+      <title>Algorithm toolbox: Insertion Sort</title>
+      <link>https://cesar-jimenez.com/post/2021-05-30-insertion-sort/</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cesar-jimenez.com/post/2021-05-30-insertion-sort/</guid>
+      <description>Insertion Sort In this article we&amp;rsquo;ll focus in undertanding insertion sort.
+There are benefits of using insertion sort. Though is not very efficient when sorting large arrays (or lists), in smaller arrays because of their low constant value it usually outperforms more advanced algorithms such as quick sort and/or merge sort.
+Some implementations of those advanced algorithms will even switch from using their more advanced methodology to insertion sort when the list gets small enough.</description>
+    </item>
+    
+    <item>
+      <title>Algorithm toolbox: Selection Sort</title>
+      <link>https://cesar-jimenez.com/post/2021-05-30-selection-sort/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cesar-jimenez.com/post/2021-05-30-selection-sort/</guid>
+      <description>Selection Sort In this article we&amp;rsquo;ll focus in undertanding selection sort.
+Selection sort is a simple comparison algorithm with a quadratic runtime of O(n²) time. This algorithm is simple and easy to implement, however it is also very inefficient though not more so than bubble sort!
+Selection sort works by looping through the array linearly, selecting the smallest element, and then swapping it to the first position. Then loop again linearly and get the second smallest element, swapping it to the second position, and so on and so forth until the array is completely sorted.</description>
+    </item>
+    
     <item>
       <title>Getting Started in Tech</title>
       <link>https://cesar-jimenez.com/post/2020-02-27-getting-started-in-tech/</link>
