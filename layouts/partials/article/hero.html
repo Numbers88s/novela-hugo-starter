@@ -12,7 +12,7 @@
         </header>
         {{ with .Page.Params.hero }}
         <div class="article-hero-image" id="ArticleImage__Hero">
-            <img src="{{ . }}">
+            <img style="width: 100%;object-fit: cover;max-height: 460px;" src="{{ . }}">
         </div>
         {{ end }}
     </div>
