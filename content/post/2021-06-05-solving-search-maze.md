@@ -1,5 +1,5 @@
 ---
-title: "Graphs toolbox: Let's solve search maze problem"
+title: "Graph toolbox: Let's solve search maze problem"
 date: 2021-06-05
 hero: /images/maze.jpg
 excerpt: "In this article we will look to solve one of the classic graph problems, searching in a maze."
@@ -50,7 +50,7 @@ Our time complexity for this would be **O(v+e)**.
 
 In order to keep track of the cells we have **visited**, we will replace the O with 1.
 
-Our **recursive action** will be to move to all the positions we are able. We will capture this movement in an array. We are able to move:
+Our **recursive action** will be to move to all the positions we are able. We will capture this movement by increasing or decreasing either our column or our row. We are able to move:
 
 * **up**: `col, row + 1`
 * **down**: `col, row - 1`
@@ -58,6 +58,28 @@ Our **recursive action** will be to move to all the positions we are able. We wi
 * **left**: `col - 1, row`
 
 We are not able to move diagonally.
+
+## Diagram
+
+```javascript
+// Entry and Exit variables
+let entry = [0, 4]
+let exit = [3, 2]
+
+// We are marking the entrance with an E
+// and marking the exit with an X
+// The I represent all the nodes visited.
+
+let maze =
+[    0 1 2 3 4
+  0	[0,0,1,I,E],
+  1	[0,I,I,I,I],
+  2	[0,I,I,1,I],
+  3	[1,1,X,1,1],
+  4	[0,0.0.0.0]
+]
+
+```
 
 ## Pseudocode
 
@@ -73,7 +95,7 @@ We are not able to move diagonally.
 			- if out of bounds return
 			- if we have visited return
 		- mark current col & row in maze as visited (set to 1)
-		- recusive action
+		- recusive actions:
 			- call recursion on all four directions
 				- col, row + 1
 				- col, row - 1
